@@ -3,10 +3,23 @@
     background-color: #000;
     color: beige;
 }
-body{
-    font-family: 'Special Elite', cursive;
+.card-text{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 25px;
 }
-
+body{
+    font-family: 'Libre Barcode 128 Text', cursive;
+}
+.card{
+    border: none;
+    border-radius: 0;
+}
+.img{
+    border-radius: 0%;
+}
+.button{
+    text-align: center;
+}
 #cssmenu
 {
     width:auto;
